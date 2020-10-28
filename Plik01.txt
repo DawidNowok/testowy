@@ -7,3 +7,4 @@ zmiana 06
 zmiana 08
 zmiana 09
 Zmiana12wClonie
+Zmiana13
